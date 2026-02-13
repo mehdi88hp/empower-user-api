@@ -1,0 +1,11 @@
+POST http://empower.local/user-api/auth/login
+Content-Type: application/json
+
+{
+  "email": "mmhp16@gmail.com",
+  "password": "mmhp16@gmail.com"
+}
+
+###
+
+
